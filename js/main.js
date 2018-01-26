@@ -62,4 +62,4 @@ var me ={
     interests: ["computer stuff", "CSS" , "JS", "sleeping"]
 }
 
-console.log(me.interests[3]);
+console.log(me.interests[0]);
